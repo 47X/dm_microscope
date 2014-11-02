@@ -1,6 +1,3 @@
-#will only run once to populate db
-
-
 if (Posts.find().count() === 0) {
   Posts.insert({
     title: 'Introducing Telescope',
