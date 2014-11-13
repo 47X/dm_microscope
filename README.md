@@ -1,5 +1,5 @@
-dm_microsope 
-============
-should be microscope:)
+####dm_microsope 
 
-Using this while learning Discover Meteor
+######should be microscope:)
+
+Using this repo while learning from [Discover Meteor](www.discovermeteor.com) book.
